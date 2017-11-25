@@ -7,5 +7,5 @@ void setup() {
 }
 
 void draw() {
-  filter(BLUR,1);
+  filter(BLUR,0.9);
 }
